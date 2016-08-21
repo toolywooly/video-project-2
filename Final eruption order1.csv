@@ -1,0 +1,62 @@
+Object_ID,Order,Shape__,Eruptions,Years BP,Reference,Epoch,PDC,TF,Magma_volu,Phreatomag,Axis,Major_elem,Trace_elem,X ,Y,Lat,Long
+1,1,Point,Bellavista,15000.00,"Smith et al., 2011",1,3.9,0,0.1,mainly pdc interbedded with pumice lenses,x,L, ,421679,4517450,40.804322,14.071479
+2,2,Point,Mofete,14550.00,Extrapolated,1,2.1,0,0.1,mainly pdc interbedded with pumice lenses,x,L, ,421804,4519587,40.823574,14.071685
+3,3,Point,Gauro,14100.00,"Smith et al., 2011",1,16.1,0,0.5,mainly pdc,x,L, ,424667,4522662,40.851548,14.106269
+4,4,Point,Santa Teresa,13700.00,Extrapolated,1,0.9,0,0.1,mainly pdc interbedded with pumice lenses,x,L, ,430577,4518482,40.814418,14.176842
+5,5,Point,La Pietra,13300.00,Extrapolated,1,2.6,0,0.1,mainly pdc interbedded with pumice lenses,x,L, ,428419,4518871,40.820783,14.121279
+6,6,Point,Torre Cappella,12900.00,Extrapolated,1,1,0,0.1,mainly pdc interbedded with pumice lenses,x,L, ,420622,4518211,40.811075,14.058853
+7,7,Point,Archiaverno,12650.00,"Smith et al., 2011",1,0,0,0.1,mainly pdc,x,L, ,421967,4521831,40.84381,14.074345
+8,8,Point,Minopoli 1,12400.00,Extrapolated,1,0,0,0.1,coarse scoria fall, ,L, ,432400,4522670,40.852294,14.198001
+9,9,Point,Soccavo 1,12200.00,Extrapolated,1,190,0,0.5,pdc interbedded with pumice lenses; upper massive ash,x,M,NNE,432960,4521440,40.841261,14.204777
+10,10,Point,Pomici Principali (PP),12000.00,"Smith et al., 2011",1,129.2,1.36,0.85,alt. pumice & ash fall with pdc,x,H,NNE,428698,4522284,40.848504,14.15413
+11,11,Point,Paleopisani 1,11750.00,Extrapolated,1,0,86.18,0.1,basal seq. pdc; upper seq. scoria fall,x,L,NE,428012,4523708,40.86127,14.145828
+12,12,Point,Paleopisani 2,11650.00,Extrapolated,1,37.7,114.93,0.2,alt. pumice & ash fall, ,M,ENE,428491,4523570,40.860069,14.151527
+13,13,Point,Soccavo 2,11650.00,Extrapolated,1,75.8,0,0.1,mainly pdc,x,L,NE,432291,4521946,40.845764,14.196787
+14,14,Point,Soccavo 3,11550.00,Extrapolated,1,147.5,0,0.1,mainly pdc,x,L,NNE,431352,4521810,40.844461,14.185664
+15,15,Point,Soccavo 4,11450.00,Extrapolated,1,180.2,0,0.2,basal seq. pumice fall; upper seq. mainly pdc,x,M,E,432449,4522067,40.846867,14.198648
+16,16,Point,Paleo San Martino,11350.00,Extrapolated,1,37.3,0,0.1,coarse scoria & minor ash fall,x,L,NE,427131,4524046,40.864237,14.135336
+17,17,Point,Minopoli 2,11250.00,Extrapolated,1,113.6,111.76,0.1,coarse scoria & minor ash fall, ,L,ENE,432344,4522681,40.852389,14.197336
+18,18,Point,Soccavo 5,11150.00,Extrapolated,1,66.2,0,0.1,ash fall,x,L,NE,432440,4521939,40.845713,14.198555
+19,19,Point,Pisani 1,11050.00,Extrapolated,1,0,58.83,0.2,coarse scoria & minor ash fall, ,M,NE,428260,4523970,40.863652,14.14874
+20,20,Point,Pisani 2,10950.00,Extrapolated,1,21.1,132.8,0.2,scoria & minor ash fall, ,M,ENE,427780,4524010,40.86397,14.14304
+21,21,Point,Fondo Riccio,10850.00,Extrapolated,1,0,0,0.001,scoria fall layers, ,L, ,423360,4523013,40.854588,14.090722
+22,22,Point,Concola,10750.00,Extrapolated,1,0,0,0.001,scoria fall layers, ,L, ,422786,4522799,40.852607,14.083939
+23,23,Point,Montagna Spaccata,10700.00,Di Girolamo et al 1984,1,3,25.56,0.02,scoria & minor ash fall, ,L, ,425920,4524130,40.864885,14.120958
+24,24,Point,Pignatiello 1,10675.00,Extrapolated,1,0,0,0.1,ash & pumice fall,x,L,?,431049,4520780,40.835157,14.182184
+25,25,Point,Pisani 3,10650.00,"Smith et al., 2011",1,0,38.32,0.1,ash fall,x,L, ,428155,4523764,40.861787,14.147518
+26,26,Point,Bacoli,10625.00,"Smith et al., 2011",1,1.1,0,0.2,mainly pdc,x,L, ,422610,4516461,40.795502,14.082638
+27,27,Point,Porto Miseno,10600.00,"Smith et al., 2011",1,0.7,0,0.1,mainly pdc,x,L, ,422901,4515835,40.78989,14.086164
+28,28,Point,Fondi di Baia,9600.00,"Smith et al., 2011",2,15.7,126.36,0.04,mainly pdc & basal subplinian pumice fall,x,L,NNE,421834,4517994,40.808662,14.073506
+29,29,Point,Sartania 1,9550.00,"Smith et al., 2011",2,40.7,0,0.1,mainly pdc,x,L,?,429380,4522253,40.848283,14.162223
+30,30,Point,Costa San Domenico,9450.00,Extrapolated,2,16.9,0,0.1,mainly pdc & minor pumice fall,x,L, ,430482,4520077,40.828777,14.175538
+31,31,Point,Pigna San Nicola,9350.00,"Smith et al., 2011",2,8,80.92,0.2,mainly pumice fall interbedded with pdc,x,M,E,430187,4521629,40.842732,14.171866
+32,32,Point,Sartania 2,9225.00,Extrapolated,2,27,44,0.1,mainly pumice fall interbedded with pdc,x,L,NNE,429306,4522299,40.848691,14.16134
+33,33,Point,St Martino,9100.00,"Smith et al., 2011",2,19.7,65.33,0.05,basal seq. pumice fall; upper seq. mainly pdc,x,L,NW,427013,4524065,40.864397,14.133933
+34,34,Point,Agnano 1,5450.00,"Smith et al., 2011",3,0,57.18,0.02,alt. ash & pumice fall,x,L,ESE,430100,4520680,40.834176,14.17094
+35,35,Point,Agnano 2,5400.00,Isaia et al 2015,3,16.9,19.79,0.01,ash fall & minor pdc,x,L,NE,430122,4521365,40.840348,14.171124
+36,36,Point,Averno 1,5250.00,"Smith et al., 2011",3,26.9,105.45,0.1,ash fall & minor pdc,x,L, ,421726,4520783,40.833371,14.070114
+37,37,Point,Agnano 3,5200.00,Isaia et al 2015,3,67.7,134.87,0.19,mainly pdc; some pumice fall at base,x,M,NE,430221,4521325,40.839996,14.172303
+38,38,Point,Cigliano,5150.00,Isaia et al 2015,3,27.9,56.76,0.05,mainly pdc; some pumice fall at base,x,L,NE,426274,4521769,40.84365,14.125437
+39,39,Point,Pignatiello 2,5125.00,Isaia et al 2015,3,0,0,0.02,Mainly PDCs,x,L, ,430475,4520460,40.83232,14.17541
+40,40,Point,Capo Miseno,5100.00,"Smith et al., 2011",3,1,0,0.02,mainly pdc; minor coarse pumice & scoria lenses,x,L, ,423146,4514533,40.778943,14.088211
+41,41,Point,Monte Santa Angelo,4920.00,"Smith et al., 2011",3,43.1,147.95,0.1,alt. pumice fall & pdc; upper seq. mostly pdc,x,M,NW,430560,4521030,40.837368,14.176357
+42,42,Point,Paleoastroni 1,4790.00,"Smith et al., 2011",3,17.8,83.04,0.05,alt. ash & pumice fall,x,L,NE,428034,4521660,40.842825,14.146326
+43,43,Point,Paleoastroni 2,4730.00,"Smith et al., 2011",3,5.3,213.68,0.1,subplinian fall & minor pdc,x,M,NW,428120,4521601,40.842301,14.147352
+44,44,Point,Agnano-Monte Spina (AMS),4550.00,"Smith et al., 2011",3,182.9,805.93,0.85,pdc & plinian-subplinian fall; proximal pdc; small caldera,x,H,NE,429432,4520690,40.834209,14.163017
+45,45,Point,San Maria delle Grazie,4445.00,Isaia et al 2009,3,0,0,0.1,mid-basal pdc; upper scoria fall,x,L, ,427918,4519537,40.823692,14.145195
+46,46,Point,Mt Olibano LD,4425.00,Isaia et al 2015,3,0,0,0,lava dome,x,L,n/a,427595,4519646,40.824645,14.141353
+47,47,Point,Paleoastroni 3,4400.00,Isaia et al 2015,3,0,0,0.02,ash & pumice fall; minor pdc,x,L, ,427881,4521836,40.844397,14.14449
+48,48,Point,Olibano Tephra,4350.00,Isaia et al 2015,3,0,0,0.1,coarse breccia & yellow ash, ,L, ,427625,4519806,40.826089,14.14169
+49,49,Point,Accademia,4300.00,Isaia et al 2015,3,0,0,0,strombolian scoria fallout & lava dome, ,L,n/a,427551,4519282,40.821362,14.140873
+50,50,Point,Solfatara,4285.00,Isaia et al 2009,3,8.7,26.74,0.03,pdc; upper seq. mainly coarse fall & breccia,x,L,NE,427388,4520019,40.827987,14.138855
+51,51,Point,Averno 2,4285.00,Isaia et al 2015,3,24.5,18.25,0.07,mid-basal seq. mainly pumice fall; upper seq. mainly pdc,x,L,SW,422132,4521176,40.839,14.07555
+52,52,Point,Astroni 1,4150.00,"Smith et al., 2011",3,39.6,124.24,0.06,pdc & ash fall,x,L,N,427999,4522122,40.846983,14.145857
+53,53,Point,Astroni 2,4142.00,Extrapolated,3,19.1,45.98,0.02,pdc & minor ash fall,x,L,N,427804,4522057,40.846381,14.143551
+54,54,Point,Astroni 3,4135.00,"Smith et al., 2011",3,40.3,276.09,0.16,mainly pdc interbedded with pumice fallot,x,M,N,427854,4521989,40.845772,14.144152
+55,55,Point,Astroni 4,4127.00,Extrapolated,3,59.6,228.41,0.14,mainly pdc interbedded with pumice fall,x,M,NNE,428617,4521831,40.844416,14.153221
+56,56,Point,Astroni 5,4120.00,Extrapolated,3,28.6,430.14,0.1,mainly pdc & minor pumice fall in basal seq.,x,L,NE,428508,4521831,40.844407,14.151928
+57,57,Point,Astroni 6,4113.00,Extrapolated,3,26.6,370.13,0.12,mainly pdc; basal subplinian pumice fall; upper scoria fall,x,M,NE,428456,4521710,40.843312,14.151325
+58,58,Point,Astroni 7,4100.00,Extrapolated,3,10,51.44,0.07,pdc & ash fall,x,L,E,428273,4521793,40.844044,14.149145
+59,59,Point,Fossa Lupara,4085.00,"Smith et al., 2011",3,8.8,11.51,0.02,pumice & scoria fall interbedded with pdc, ,L, ,427135,4523482,40.859157,14.135449
+60,60,Point,Nisida,3800.00,"Smith et al., 2011",3,1.1,0,0.02,pdc,x,L, ,429234,4516304,40.794685,14.161167
+61,61,Point,Monte Nuovo,478.00,"Smith et al., 2011",4,5.6,4,0.03,pdc & scoria fall in upper seq.,x,L,S,423095,4520870,40.835261,14.087843
